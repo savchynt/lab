@@ -10,6 +10,10 @@
   - [networkx tutorial notebook](networkx/tutorial.ipynb)
 - [node2vec](node2vec)
   - [Lab notebook 0](node2vec/lab_0.ipynb)
+- [autograd.numpy](autograd_np)
+  - [Lab notebook](autograd_np/autograd_lab.ipynb)
+- [LaTeX](latex)
+- [Misc](misc)
 
 
 **Animated Perceptron** | [notebook](nn/animated_perceptron.ipynb)

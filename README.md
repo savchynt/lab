@@ -2,6 +2,9 @@
 
 ## Contents
 
+- [TensorFlow](tensorflow)
+  - [Notes/Notebooks on Coursera's Introduction to TensorFlow](tensorflow/coursera_intro_tf)
+    - [Week 1](tensorflow/coursera_intro_tf/week1)
 - [Neural Networks](nn)
   - [Animated perceptron training process with matplotlib](nn/animated_perceptron.ipynb)
   - [Neural Network in numpy from scratch notebook](nn/nn_from_scratch.ipynb)

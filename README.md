@@ -2,6 +2,7 @@
 
 ## Contents
 
+- [Project Euler Solutions](projecteuler)
 - [TensorFlow](tensorflow2)
   - [Notes/Notebooks on Coursera's Introduction to TensorFlow](tensorflow2/coursera_intro_tf)
     - [Week 1](tensorflow2/coursera_intro_tf/week1)

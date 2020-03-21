@@ -5,7 +5,11 @@
  a comment */
 
 body {
+<<<<<<< HEAD
 background-color: white;
+=======
+background-color: gray; 
+>>>>>>> 113221514fdd02d9ba32932062fddb7140f5d4be
 font-size: 10px;
 }
 
